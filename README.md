@@ -54,3 +54,6 @@ Have you ever wished you knew how to program, but had no idea where to start fro
 ### 12/12/2015
 - Enrolled in the program
 - Finished Week 1 | Your First Computer Program
+
+### 13/12/2015
+- Finished Week 2 | Code Gone Loopy!
