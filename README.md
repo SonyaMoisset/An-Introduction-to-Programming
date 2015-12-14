@@ -57,3 +57,6 @@ Have you ever wished you knew how to program, but had no idea where to start fro
 
 ### 13/12/2015
 - Finished Week 2 | Code Gone Loopy!
+
+### 14/12/2015
+- Finished Week 3 | Remixing Games
