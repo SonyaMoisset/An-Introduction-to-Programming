@@ -1,4 +1,5 @@
 # Code Yourself! An Introduction to Programming
+# COURSE AUDIT COMPLETED
 ### Created by The University of Edinburgh & Universidad ORT Uruguay
 Have you ever wished you knew how to program, but had no idea where to start from? This course will teach you how to program in Scratch, an easy to use visual programming language. More importantly, it will introduce you to the fundamental principles of computing and it will help you think like a software engineer.
 
@@ -63,3 +64,6 @@ Have you ever wished you knew how to program, but had no idea where to start fro
 
 ### 20/12/2015
 - Finished Week 4 | Reusing Your Code
+
+### 21/12/2015
+- Finished Week 5 | Think Like a Software Engineer
