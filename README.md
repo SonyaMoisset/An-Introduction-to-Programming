@@ -60,3 +60,6 @@ Have you ever wished you knew how to program, but had no idea where to start fro
 
 ### 14/12/2015
 - Finished Week 3 | Remixing Games
+
+### 20/12/2015
+- Finished Week 4 | Reusing Your Code
